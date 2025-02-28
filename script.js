@@ -96,6 +96,7 @@ console.log(Math.ceil(4.3)) // 5
 console.log(Math.floor(4.8)) // 4
 
 /**
+ *  Math.round(x: number): number
  *  Làm tròn đến số nguyên gần nhất
  */
 console.log(Math.round(4.5)) // 5
